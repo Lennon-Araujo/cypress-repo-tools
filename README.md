@@ -17,6 +17,8 @@ Components/Effects:
  * Selects (search, span)
  * Hover (mouseover)
  * Drag and drop
+ * Datepicker
+ * Upload files (fixtures)
 
 
 ## Starting Cypress Project
