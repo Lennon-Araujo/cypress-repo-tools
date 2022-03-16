@@ -19,6 +19,7 @@ Components/Effects:
  * Drag and drop
  * Datepicker
  * Upload files (fixtures)
+ * IFrames (Instagram)
 
 
 ## Starting Cypress Project
