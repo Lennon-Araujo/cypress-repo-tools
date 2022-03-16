@@ -12,6 +12,8 @@ Some element that were tested:
   * Checkboxex
   * Radioboxes
   * Inputs
+  * Alerts
+  * Tables
 
 Components/Effects:
  * Selects (search, span)
@@ -20,6 +22,8 @@ Components/Effects:
  * Datepicker
  * Upload files (fixtures)
  * IFrames (Instagram)
+ * SweetAlert2
+ * Toasts
 
 
 ## Starting Cypress Project
@@ -29,13 +33,16 @@ Components/Effects:
 ```bash
 yarn
 ```
+or
+```bash
+npm install
+```
 Waiting download the `node_modules` and run Cypress:
 
 ```bash
 yarn test
 ```
 or
-
 ```bash
 npx cypress open
 ```
