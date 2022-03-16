@@ -24,6 +24,7 @@ Components/Effects:
  * IFrames (Instagram)
  * SweetAlert2
  * Toasts
+ * New Tabs
 
 
 ## Starting Cypress Project
